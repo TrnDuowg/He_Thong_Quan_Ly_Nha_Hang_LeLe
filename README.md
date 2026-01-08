@@ -1,3 +1,10 @@
+# HỆ THỐNG QUẢN LÝ NHÀ HÀNG ĐỒ ĂN NHANH LELE
+Bài tập Lớn môn Phân tích và Thiết kế hệ thống - Đại học Bách Khoa Hà Nội
+MI3120 - Mã lớp: 163628
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
