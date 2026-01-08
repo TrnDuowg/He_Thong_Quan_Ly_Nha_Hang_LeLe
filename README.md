@@ -1,6 +1,8 @@
 # HỆ THỐNG QUẢN LÝ NHÀ HÀNG ĐỒ ĂN NHANH LELE
-Bài tập Lớn môn Phân tích và Thiết kế hệ thống - Đại học Bách Khoa Hà Nội
-MI3120 - Mã lớp: 163628
+Bài tập Lớn môn Phân tích và Thiết kế hệ thống - Đại học Bách Khoa Hà Nội.
+
+MI3120 - Mã lớp: 163628.
+#1. Thông tin nhóm sinh viên
 
 
 
