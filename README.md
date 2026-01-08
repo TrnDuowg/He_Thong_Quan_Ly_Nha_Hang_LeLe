@@ -4,7 +4,7 @@ Bài tập Lớn môn Phân tích và Thiết kế hệ thống - Đại học B
 MI3120 - Mã lớp: 163628.
 # 1. Thông tin nhóm sinh viên
 - Trần Đoàn Hoàng Anh: 20237294
-- Đặng Thị Thùy Dương: 20237321
+- Đặng Thị Thùy Dương: 20237318
 - Trần Công Dương: 20237321
 - Nguyễn Thị Minh Hằng: 20237324
 # 2. Cấu trúc mã nguồn
