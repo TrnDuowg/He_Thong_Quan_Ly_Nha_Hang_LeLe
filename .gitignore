@@ -1,0 +1,14 @@
+# Bỏ qua thư mục thư viện nặng
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Bỏ qua file cấu hình chứa mật khẩu
+.env
+client/.env
+server/.env
+
+# Bỏ qua file hệ thống
+.DS_Store
+dist/
+build/
