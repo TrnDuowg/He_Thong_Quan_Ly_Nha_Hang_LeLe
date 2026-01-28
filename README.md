@@ -6,7 +6,7 @@
 ---
 
 ## 1. Thông tin nhóm sinh viên
-- **Trần Đoàn Hoàng Anh**: 20237294
+- **Trần Đoàn Hoàng Anh**: 20237297
 - **Đặng Thị Thùy Dương**: 20237318
 - **Trần Công Dương**: 20237321
 - **Nguyễn Thị Minh Hằng**: 20237324
